@@ -1,4 +1,4 @@
-# Logistic Regression for Lead Scoring in Python
+# Logistic Regression for Lead Scoring 
 
 This repository provides a Python implementation of logistic regression for lead scoring tasks.
 
